@@ -4,7 +4,7 @@
 
 ## Introduction
 
-:stars: Just someone that loves coding.
+:stars: Just someone who loves coding.
 
 ## Some stats, better than empty space.
 
